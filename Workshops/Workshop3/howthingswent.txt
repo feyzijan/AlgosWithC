@@ -1,2 +1,0 @@
-I did this workshop at home and found it especially difficult to fill in the matrix multiplication function, though it helped me better
-understand Floyd Warshall algorithm in the end.
