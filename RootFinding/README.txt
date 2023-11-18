@@ -1,1 +1,0 @@
-I have simply used the makefile provided by running "make" and then "./solution" in the terminal on MAC OS 
