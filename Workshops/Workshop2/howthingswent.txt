@@ -1,0 +1,2 @@
+I did this workshop at home and did not have much difficulty overall, as I had some prior experience with C.
+Though reading from files is still new to me so that took getting used to.
