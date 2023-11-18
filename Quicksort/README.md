@@ -1,6 +1,5 @@
-# CSE 6010 Workshop 4 Overview
 
-In this workshop, the objective is to implement the Quicksort algorithm and use it to sort an array of items. Each item consists of three double values, and the sorting is based on the second value of each item. Here are the key tasks for the workshop:
+Implemented the Quicksort algorithm and used it to sort an array of items. Each item consists of three double values, and the sorting is based on the second value of each item. Here are the key steps:
 
 1. Define a struct to represent an item containing three double values.
 
@@ -12,4 +11,4 @@ In this workshop, the objective is to implement the Quicksort algorithm and use 
 
 5. Optionally, print out the sorted array if the second command-line argument is specified as "p."
 
-The workshop focuses on implementing the Quicksort algorithm, handling file input, and analyzing its performance on different data sets.
+The code focuses on implementing the Quicksort algorithm, handling file input, and analyzing its performance on different data sets.

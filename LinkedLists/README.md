@@ -1,6 +1,5 @@
-# Workshop 1 Overview
+One of the first stuff I did in C.
 
-This workshop assignment focuses on two main objectives:
 
 1. **Returning Information Three Ways:**
    - Create an array of 100 nonnegative double values.

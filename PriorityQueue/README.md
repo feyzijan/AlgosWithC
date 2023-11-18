@@ -1,6 +1,6 @@
 # CSE 6010 Assignment 2 Overview
 
-This assignment involves implementing a priority queue (PQ) module for managing flight information using a singly-linked-list data structure. The PQ module is designed to be used as part of a software library and includes the following functionalities:
+Here I implement a priority queue (PQ) module for managing flight information using a singly-linked-list data structure. The PQ module is designed to be used as part of a software library and includes the following functionalities:
 
 1. Define a data structure called Flightinfo, representing flight information, including airline, flight number, and departure time.
 2. Define a data structure called Item, representing a PQ item with flight information, priority (time), and a pointer to the next item.
@@ -11,8 +11,7 @@ This assignment involves implementing a priority queue (PQ) module for managing 
 7. Implement a function to count the number of items in the PQ.
 8. Implement a function to count the number of items with a specific airline in the PQ.
 
-The assignment emphasizes good software engineering practices, data structure design, and error handling for various operations on the PQ.
 
-I used the makefile provided by running "make" and then "./pq" in the terminal
+Can Run "make" and then "./pq" in the terminal
 Compiler: GCC
 OS: Apple M1 MAC OS 13.5.2 

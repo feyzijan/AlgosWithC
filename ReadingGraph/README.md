@@ -1,6 +1,5 @@
-# CSE 6010 Workshop 2 Overview
 
-In this workshop, the goal is to write a C program that reads graph information from a file and outputs various information about the graph. The program should accomplish the following tasks:
+Here the C program reads graph information from a file and outputs various information about the graph. The program should accomplish the following tasks:
 
 1. Read graph information from a file (testgraph.txt) that specifies a directed graph using an adjacency-matrix representation.
 
@@ -10,4 +9,4 @@ In this workshop, the goal is to write a C program that reads graph information 
 
 4. Find all 2-hop paths with distinct vertices contained in the graph.
 
-The workshop focuses on handling adjacency matrices, dynamically allocating memory, and performing graph-related calculations in C.
+The code focuses on handling adjacency matrices, dynamically allocating memory, and performing graph-related calculations in C.
