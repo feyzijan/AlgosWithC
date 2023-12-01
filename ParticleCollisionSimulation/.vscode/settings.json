@@ -1,0 +1,12 @@
+// {
+//     "files.associations": {
+//         "math.h": "c"
+//     }
+// }
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+}
